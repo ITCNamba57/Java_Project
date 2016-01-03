@@ -1,2 +1,2 @@
-# Java_Project
+# Java Project
 Project for I200
