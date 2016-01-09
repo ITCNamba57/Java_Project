@@ -1,7 +1,11 @@
+Aleksandr Bogdan DK13
+
 # Java Project
 Project for I200
 ***
 ##Minesweeper game
+
+
 
 ###Rules
 You can see a minefield with many square cells in it.
